@@ -1,0 +1,7 @@
+*.tar.gz
+*.mp4
+*.png
+*.jpg
+*vscode
+install/
+build/

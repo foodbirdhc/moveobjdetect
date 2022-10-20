@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*vscode
+install/
+build/
+third_part/
