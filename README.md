@@ -10,7 +10,7 @@ use for moving target detection, especially for night kitchen mouse detection
 
 编译方法：
 
-编译器版本：gcc 5.4.0
+编译器版本：gcc 5.4.0 (或者其他版本编译时，需要重新编译对应的opencv）
 
 1.首先解压opencv依赖库
 >> tar zxvf third_party.tar.gz
